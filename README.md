@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Adarsh Agarwal</h1>
 <h3 align="center">Aspiring to be a full-stack Data Scientist</h3>
 
